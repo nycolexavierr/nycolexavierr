@@ -2,7 +2,7 @@
 <img align="right" width="300" src="./images/catcoding.gif" />
 
 <p> 🤚 Hello human, my name is Nycole! I am Front End Developer and UI Designer </p>
-<p>📜 2º semester of Computer Science.</p>
+<p>📜 2º semester of Computer Science.</p> 
 
 ---
 <p> 🎤 Let's talk? </p>
